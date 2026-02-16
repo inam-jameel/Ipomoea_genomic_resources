@@ -6,9 +6,11 @@ A curated collection of links and resources for Ipomoea genomic research and dat
 
 This GitHub Pages site serves as a centralized hub for accessing external genomic resources, databases, and tools related to Ipomoea species. Visit the site here: [Ipomoea Genomic Resources](https://inam-jameel.github.io/Ipomoea_genomic_resources/)
 
+The site is currently under onstruction, so many links are broken and are in development
+
 ## Contents
 
-The website provides quick access to:
+The website will provide quick access to:
 - Genomic databases
 - Research tools and software
 - Reference sequences
